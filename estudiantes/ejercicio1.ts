@@ -49,3 +49,4 @@ console.table(estudiantes);
 console.log("Promedio: " + promedio().toFixed(2));
 console.log("Nota mas alta: " + maxnota());
 
+
